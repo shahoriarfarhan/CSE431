@@ -6,6 +6,9 @@ https://easychair.org/conferences/submission?submission=6200051;a=29536139
 Paper title:
 Information Extraction From Unstructured Data
 
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1toE2-fMU4gDygh-9cl83HPqfiIY-G6oYCC3sMmSQIsQ/edit?usp=sharing
+
 
 Paper submission date (to workshop/conference):
 11-September-2022
